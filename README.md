@@ -1,3 +1,3 @@
 # Portfolio Website
 
-A responsive onepager to showcase my professional portfolio, designed following a mobile-first approach. It is built with pure HTML, CSS and some snippets of Javascript to toggle the hamburger menu on mobile screens and for the functionallity of Read more / Read less buttons. The CSS code uses native variables for repetitive values. A postprocessor was used to improve browser support.
+A responsive one-pager that prioritizes mobile design and serves as a display for my professional portfolio. To toggle the hamburger menu on mobile displays and enable the Read more and Read less buttons, it is developed using only HTML, CSS, and a few lines of Javascript. For repeating values, native variables are used in the CSS code. The browser support was enhanced using a postprocessor.
