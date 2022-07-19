@@ -1160,7 +1160,7 @@ textarea:focus {
 } 
 
 /* styling success */
-* {
+* .success-container {
   background-color: #00685d;
   padding: 0;
   margin: 0;
