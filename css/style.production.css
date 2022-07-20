@@ -902,7 +902,7 @@ h1 {
   font-family: inherit;
   text-decoration: none;
   padding: 10px 32px;
-  border-radius: 10px;
+  /* border-radius: 10px; */
   -webkit-transition-duration: 0.2s;
           transition-duration: 0.2s;
   -webkit-transition-property: opacity;
