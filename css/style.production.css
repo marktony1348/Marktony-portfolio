@@ -366,7 +366,11 @@ nav {
 #work {
   padding: 5em 0.5em 2em;
   background: #00685d;
-  color: #fff;
+  /* color: #fff; */
+}
+
+.work-title{
+  color: #FFF;
 }
 
 .projects {
