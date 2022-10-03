@@ -65,5 +65,7 @@ menuItems.forEach(menuItem => {
     menuItems.forEach(item => item.classList.remove('active'));
     this.classList.add('active');
   });
+
+  const showcase = document.querySelector('.showcase');
 });
 
